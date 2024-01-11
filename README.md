@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maharhassainkk" target="blank"><img src="https://img.shields.io/twitter/follow/maharhassainkk?logo=twitter&style=for-the-badge" alt="maharhassainkk" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Data Analytics**
+- 🌱 I’m currently learning **DevOps and Data Analytics**
 
 - 📫 How to reach me **maharkk01@gmail.com**
 
