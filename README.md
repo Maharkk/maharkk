@@ -28,7 +28,6 @@
 <h3 align="left">TryHackMe:</h3>
 <p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Maharkk.png" alt="TryHackMe">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Maharkk.png" alt="TryHackMe Badge">
 </p>
 
 <h3 align="left">Cybersecurity Tools:</h3>
